@@ -2,4 +2,4 @@ Nosso primeiro
 arquivo
 do 
 screencast
-gitub
+github
